@@ -1,6 +1,6 @@
 <p align="center">
   <h1>Hi, I'm Paqih Teguh!</h1>
-  <p>A passionate software developer from [Your Location].</p>
+  <p>A passionate software developer from Bandung Indonesia.</p>
 </p>
 
 <p align="center">
@@ -22,29 +22,26 @@
 
 <ul>
   <li>
-    <a href="[Project 1 Link]">Project 1</a> - A brief description.
+    On The Way
   </li>
-  <li>
+<!--   <li>
     <a href="[Project 2 Link]">Project 2</a> - Another cool project.
-  </li>
+  </li> -->
   <!-- Add more projects as needed -->
 </ul>
 
 <h2>🌱 Currently Learning</h2>
 
-<p>Currently, I'm focused on improving my skills in [Your Learning Interests].</p>
+<p>Currently, I'm focused on improving my skills in Fullstack Developer.</p>
 
 <h2>📫 Get in Touch</h2>
 
 <p>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:paqihteguh23@gmail.com">
     <img src="https://img.shields.io/badge/Email-00C1D4?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/paqih-teguh-maulana-857a92200/">
     <img src="https://img.shields.io/badge/LinkedIn-2867B2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
   </a>
 </p>
 

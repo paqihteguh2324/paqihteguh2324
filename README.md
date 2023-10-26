@@ -4,8 +4,8 @@ My name **Paqih Teguh Maulana**.
 
 <p align="left">
 <a href="https://github.com/paqihteguh2324">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paqihteguh2324&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paqihteguh2324&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="500em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paqihteguh2324&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="500em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paqihteguh2324&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 

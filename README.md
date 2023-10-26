@@ -1,58 +1,61 @@
-### Hi there 👋
-
-# Hello, I'm Paqih Teguh! 👋
-
-I'm a passionate software developer based in [Your Location]. I love creating cool stuff with code and contributing to open-source projects. My interests are in [mention your interests, e.g., web development, machine learning, etc.], and I'm always eager to learn and explore new technologies.
-
-## 🔧 Technologies & Tools
-
-- **Programming Languages:** [List the languages you're proficient in]
-- **Web Development:** [List any web development technologies or frameworks you're familiar with]
-- **Databases:** [Mention any databases you work with]
-- **Other Skills:** [Any other relevant skills or tools]
-
-## 🌱 I'm Currently Learning
-
-- [Mention the technologies or skills you're currently learning]
-
-## 💼 Work
-
-- I'm currently working on [Mention your current projects or job]
-
-## 📫 Get in Touch
-
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Profile URL]
-
-## 🌐 Check Out My Portfolio
-
-[Link to your portfolio or personal website, if available]
-
-## ❤️ Support
-
-If you like my work and would like to support me, you can buy me a coffee! ☕
-
-[Insert Buy Me a Coffee Link]
-
-## 📝 License
-<p align="left">
-<a href="https://github.com/paqihteguh2324">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paqihteguh2324&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paqihteguh2324&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p align="center">
+  <h1>Hi, I'm Paqih Teguh!</h1>
+  <p>A passionate software developer from [Your Location].</p>
 </p>
 
-<!--
-**paqihteguh2324/paqihteguh2324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/paqihteguh2324">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=paqihteguh2324&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<h2>🚀 My Skills</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" alt="Node.js" />
+  <!-- Add more badges for your skills -->
+</p>
+
+<h2>💻 Latest Projects</h2>
+
+<ul>
+  <li>
+    <a href="[Project 1 Link]">Project 1</a> - A brief description.
+  </li>
+  <li>
+    <a href="[Project 2 Link]">Project 2</a> - Another cool project.
+  </li>
+  <!-- Add more projects as needed -->
+</ul>
+
+<h2>🌱 Currently Learning</h2>
+
+<p>Currently, I'm focused on improving my skills in [Your Learning Interests].</p>
+
+<h2>📫 Get in Touch</h2>
+
+<p>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-00C1D4?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-2867B2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
+  </a>
+</p>
+
+<h2>🌐 Portfolio</h2>
+
+<p>You can explore more about my work on my [Portfolio](Link).</p>
+
+<h2>❤️ Support</h2>
+
+<p>If you find my work helpful or inspiring, you can [Buy Me a Coffee](Link)!</p>
+
+<h2>📝 License</h2>
+
+<p>This project is open-source and available under the [License Name] License.</p>

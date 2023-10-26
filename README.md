@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://github.com/paqihteguh2324">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=paqihteguh2324&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paqihteguh2324&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
   </a>
 </p>
 

@@ -1,7 +1,40 @@
 ### Hi there 👋
 
-My name **Paqih Teguh Maulana**.
+# Hello, I'm Paqih Teguh! 👋
 
+I'm a passionate software developer based in [Your Location]. I love creating cool stuff with code and contributing to open-source projects. My interests are in [mention your interests, e.g., web development, machine learning, etc.], and I'm always eager to learn and explore new technologies.
+
+## 🔧 Technologies & Tools
+
+- **Programming Languages:** [List the languages you're proficient in]
+- **Web Development:** [List any web development technologies or frameworks you're familiar with]
+- **Databases:** [Mention any databases you work with]
+- **Other Skills:** [Any other relevant skills or tools]
+
+## 🌱 I'm Currently Learning
+
+- [Mention the technologies or skills you're currently learning]
+
+## 💼 Work
+
+- I'm currently working on [Mention your current projects or job]
+
+## 📫 Get in Touch
+
+- LinkedIn: [Your LinkedIn Profile URL]
+- Twitter: [Your Twitter Profile URL]
+
+## 🌐 Check Out My Portfolio
+
+[Link to your portfolio or personal website, if available]
+
+## ❤️ Support
+
+If you like my work and would like to support me, you can buy me a coffee! ☕
+
+[Insert Buy Me a Coffee Link]
+
+## 📝 License
 <p align="left">
 <a href="https://github.com/paqihteguh2324">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paqihteguh2324&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

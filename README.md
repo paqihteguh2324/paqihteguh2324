@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Hi, I'm Paqih Teguh!</h1>
+  <h1>Hi, I'm Paqih Teguh Maulana!</h1>
   <p>A passionate software developer from Bandung Indonesia.</p>
 </p>
 

@@ -98,13 +98,13 @@ stakeholders, and clients to deliver reliable software for real-world workflows.
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=paqihteguh2324&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    width="48%"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=paqihteguh2324&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
     alt="Paqih's GitHub statistics"
   />
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paqihteguh2324&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    width="48%"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paqihteguh2324&layout=compact&langs_count=8&theme=algolia"
     alt="Paqih's most used languages"
   />
 </p>
